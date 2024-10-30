@@ -1,0 +1,1803 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: HootProof Check\n"
+"POT-Creation-Date: 2015-08-30 15:33+0200\n"
+"PO-Revision-Date: 2015-08-30 17:29+0200\n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: de_DE\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 1.8.4\n"
+"X-Poedit-Basepath: ..\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-KeywordsList: __;_e;_n:1,2;_x:1,2c;_ex:1,2c;_nx:4c,1,2;esc_attr__;"
+"esc_attr_e;esc_attr_x:1,2c;esc_html__;esc_html_e;esc_html_x:1,2c;_n_noop:1,2;"
+"_nx_noop:3c,1,2;__ngettext_noop:1,2\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Poedit-SearchPath-0: .\n"
+"X-Poedit-SearchPathExcluded-0: *.js\n"
+
+#: hootproof.php:68
+msgid ""
+"Check & optimize WordPress with individual suggestions for security, "
+"performance, SEO, privacy. Especially for EU/German privacy laws."
+msgstr ""
+"Checke & optimiere dein WordPress mit individuellen Vorschlägen für mehr "
+"Sicherheit, Performance, SEO und Datenschutz (EU/Deutschland Datenschutz)."
+
+#: hootproof.php:158 hootproof.php:159
+msgctxt "menu"
+msgid "Check Results"
+msgstr "Check-Ergebnisse"
+
+#: hootproof.php:165 includes/class-hootproof-gtmetrix.php:59
+msgid "Settings"
+msgstr "Einstellungen"
+
+#: hootproof.php:166
+msgctxt "menu"
+msgid "General Settings"
+msgstr "Allgemeine Einstellungen"
+
+#: hootproof.php:174 includes/class-hootproof-gtmetrix.php:121
+msgid "HootProof Performance Settings"
+msgstr "HootProof Performance Einstellungen"
+
+#: hootproof.php:174 includes/class-hootproof-gtmetrix.php:121
+#: includes/class-hootproof-gtmetrix.php:444
+msgid "Performance Settings"
+msgstr "Performance Einstellungen"
+
+#: hootproof.php:179
+msgctxt "menu"
+msgid "HootProof Performance Tests"
+msgstr "HootProof Performance Tests"
+
+#: hootproof.php:179
+msgctxt "menu"
+msgid "Performance Tests"
+msgstr "Performance Tests"
+
+#: hootproof.php:180
+msgctxt "menu"
+msgid "HootProof Test Schedule"
+msgstr "HootProof geplante Tests"
+
+#: hootproof.php:180
+msgctxt "menu"
+msgid "Test Schedule"
+msgstr "Geplante Tests"
+
+#: hootproof.php:189 hootproof.php:193 hootproof.php:340 hootproof.php:403
+msgid "Want more? Upgrade to Premium!"
+msgstr "Du willst mehr? Werde HootProof-Mitglied!"
+
+#: hootproof.php:190 hootproof.php:194 hootproof.php:342 hootproof.php:405
+msgid "Problems? Ask support!"
+msgstr "Probleme? Frag den Support!"
+
+#: hootproof.php:191 hootproof.php:195 hootproof.php:343 hootproof.php:406
+msgid "More Resources"
+msgstr "Mehr Ressourcen"
+
+#: hootproof.php:203
+#, php-format
+msgid ""
+"<strong>HootProof Check &amp; Optimize is almost ready.</strong> Please <a "
+"href=\"%s\">enter the HootProof password</a> to make it work."
+msgstr ""
+"<strong>Das HootProof Check & Optimize Plugin ist fast startbereit.</strong> "
+"Bitte <a href=\"%s\">gib das Passwort ein</a>, um das Plugin zu nutzen."
+
+#: hootproof.php:222
+msgid "Front page URL"
+msgstr "URL der Startseite"
+
+#: hootproof.php:224
+msgid "Show branding"
+msgstr "HootProof-Logo im Footer anzeigen"
+
+#: hootproof.php:231
+msgid "Remove comment IPs"
+msgstr "IP-Adressen bei Kommentaren entfernen"
+
+#: hootproof.php:289
+#, php-format
+msgid "WordPress Address (%s)"
+msgstr "WordPress Adresse (%s)"
+
+#: hootproof.php:290
+#, php-format
+msgid "Site Address (%s)"
+msgstr "Startseite (%s)"
+
+#: hootproof.php:329
+msgid "Comment IPs masked"
+msgstr "IP-Adressen der Kommentare unkenntlich gemacht"
+
+#: hootproof.php:334
+msgid "General Options"
+msgstr "Allgemeine Einstellungen"
+
+#: hootproof.php:335
+msgid "Privacy Options"
+msgstr "Datenschutz-Einstellungen"
+
+#: hootproof.php:349
+msgid "HootProof Settings"
+msgstr "HootProof Einstellungen"
+
+#: hootproof.php:362 includes/class-hootproof-gtmetrix.php:457
+msgid "Save Changes"
+msgstr "Änderungen speichern"
+
+#: hootproof.php:377
+msgid "You need a password to use this plugin."
+msgstr "Du benötigst ein Passwort um dieses Plugin zu verwenden."
+
+#: hootproof.php:379
+msgid ""
+"To get the password, sign up for the free HootProof newsletter. The password "
+"will be sent to you as soon as your free subscription is confirmed."
+msgstr ""
+"Um das Passwort zu erhalten, melde dich für den kostenlosen HootProof "
+"Newsletter an. Das Passwort wird dir per E-Mail zugeschickt, sobald du deine "
+"Newsletter-Anmeldung abgeschlossen hast."
+
+#: hootproof.php:381
+msgid "Sign up &amp; get password"
+msgstr "Kostenlos anmelden &amp; Passwort erhalten"
+
+#: hootproof.php:394
+msgid "Check Results"
+msgstr "Übersicht über die Optimierungsvorschläge"
+
+#: hootproof.php:398
+msgid "Privacy Notices"
+msgstr "Datenschutz-Hinweise"
+
+#: hootproof.php:451
+#, php-format
+msgid "Still %s comment with an actual IP address."
+msgid_plural "Still %s comments with actual IP addresses."
+msgstr[0] "Noch %s Kommentar mit echter IP-Adresse vorhanden"
+msgstr[1] "Noch %s Kommentare mit echten IP-Adressen vorhanden"
+
+#: hootproof.php:452
+msgid "Remove IP addresses now"
+msgstr "IP-Adressen in Kommentaren jetzt entfernen"
+
+#: hootproof.php:458
+msgid ""
+"<p><strong>Upgrade now to receive:</strong>\n"
+"          <ol><li>Detailed step-by-step instructions on how to fix each "
+"issue and implement the suggestions</li>\n"
+"              <li>A discount code for the general HootProof support "
+"services</li>\n"
+"          </ol>\n"
+"           (currently only available in German)</p>"
+msgstr ""
+"<p><strong>Werde jetzt kostenlos HootProof-Mitglied und erhalte:</strong>\n"
+"          <ol><li>Detaillierte Schritt-für-Schritt-Anleitungen zur Umsetzung "
+"der Optimierungsvorschläge</li>\n"
+"              <li>Einen 10% Rabatt-Code auf den HootProof Support\n"
+"              <li>Den HootProof-Newsletter mit exklusiven Rabatten und "
+"Informationen</li>\n"
+"          </ol></p>"
+
+#: hootproof.php:463
+msgid "See features &amp; upgrade"
+msgstr "Jetzt kostenlos anmelden"
+
+#: hootproof.php:470
+msgid ""
+"HootProof can solve your WordPress problems and assist you with many other "
+"website related tasks."
+msgstr ""
+"HootProof löst deine WordPress-Probleme und kann dir mit vielen anderen "
+"Aufgaben rund um deine Website weiterhelfen."
+
+#: hootproof.php:472
+msgid "Find out more about our affordable, professional WordPress support."
+msgstr ""
+"Erfahre jetzt mehr über unseren kostengünstigen, professionellen WordPress-"
+"Support."
+
+#: hootproof.php:474
+msgctxt "Link to support"
+msgid "https://hootproof.de/en"
+msgstr "https://hootproof.de/wordpress-support"
+
+#: hootproof.php:474
+msgid "Get WordPress support"
+msgstr "Zum WordPress-Support"
+
+#: hootproof.php:480
+msgid ""
+"Visit the HootProof blog for even more resources and articles about getting "
+"the most out of your website (currently only available in German)."
+msgstr ""
+"Besuche den HootProof Blog für noch mehr Artikel und Ressourcen rund um "
+"WordPress und wie du das Beste aus deiner Website heraus holen kannst."
+
+#: hootproof.php:483
+msgid ""
+"See the plugin documentation for details on how to setup the HootProof "
+"Plugin."
+msgstr ""
+"Mehr Details zur Konfiguration des HootProof Plugins findest du in der "
+"Dokumentation."
+
+#: hootproof.php:484
+msgctxt "URL Documentation"
+msgid "https://wordpress.org/plugins/hootproof-check-optimize/"
+msgstr "https://hootproof.de/plugin-dokumentation/"
+
+#: hootproof.php:484
+msgid "Plugin Documentation"
+msgstr "Plugin-Dokumentation"
+
+#: includes/class-hootproof-footer-branding.php:37
+msgid "Website checked by HootProof"
+msgstr "Website optimiert mit HootProof"
+
+#: includes/class-hootproof-general-checks.php:71
+msgid ""
+"The following plugins and scripts process website users' IP addresses. Make "
+"sure you inform them where necessary or consider deactivating the plugins."
+msgstr ""
+"Die folgenden Plugins und Skripte verarbeiten und speichern IP-Adressen "
+"deiner Website-Besucher. Stelle sicher, dass du sie ggf. darüber informierst "
+"oder ziehe in Erwägung, die Plugins zu deaktivieren."
+
+#: includes/class-hootproof-general-checks.php:79
+msgid "Plugin/Script Name"
+msgstr "Name des Plugins/Skripts"
+
+#: includes/class-hootproof-general-checks.php:80
+msgid "Note"
+msgstr "Anmerkung"
+
+#: includes/class-hootproof-general-checks.php:81
+msgid "Recommended Action"
+msgstr "Empfohlene Aktion"
+
+#: includes/class-hootproof-general-checks.php:111
+#: includes/class-hootproof-general-checks.php:199
+msgid "Check again"
+msgstr "Erneut prüfen"
+
+#: includes/class-hootproof-general-checks.php:116
+msgid "Check Result Name"
+msgstr "Vorschlag"
+
+#: includes/class-hootproof-general-checks.php:117
+msgid "Category"
+msgstr "Kategorie"
+
+#: includes/class-hootproof-general-checks.php:118
+msgid "Severity"
+msgstr "Bedeutung"
+
+#: includes/class-hootproof-general-checks.php:119
+msgid "Details"
+msgstr "Details"
+
+#: includes/class-hootproof-general-checks.php:149
+#: includes/class-hootproof-general-checks.php:155
+#: includes/class-hootproof-general-checks.php:162
+msgid "Significant"
+msgstr "Bedeutend"
+
+#: includes/class-hootproof-general-checks.php:150
+#: includes/class-hootproof-general-checks.php:156
+#: includes/class-hootproof-general-checks.php:163
+#: includes/hootproof-result-details.php:10
+msgid "Medium"
+msgstr "Mittel"
+
+#: includes/class-hootproof-general-checks.php:157
+#: includes/hootproof-result-details.php:11
+msgid "Low"
+msgstr "Gering"
+
+#: includes/class-hootproof-general-checks.php:206
+msgid "All checks passed successfully! Congrats!"
+msgstr "Alle Checks erfolgreich bestanden! Herzlichen Glückwunsch"
+
+#: includes/class-hootproof-general-checks.php:224
+msgid "Install & activate plugins"
+msgstr "Plugins installieren & aktivieren"
+
+#: includes/class-hootproof-general-checks.php:228
+msgid "Details on how to fix this issue"
+msgstr "Erfahre mehr über die Umsetzung dieses Vorschlags"
+
+#: includes/class-hootproof-general-checks.php:312
+msgid ""
+"When commenting, registering or logging in, IP addresses are sent to Akismet "
+"for spam protection."
+msgstr ""
+"Beim Kommentieren, Registrieren und Einloggen werden IP-Adressen an Akismet  "
+"gesendet, um deine Seite vor Spam zu schützen."
+
+#: includes/class-hootproof-general-checks.php:313
+msgid ""
+"Include a note in your comments & login forms or use AntiSpam bee instead"
+msgstr ""
+"Füge im Kommentar- und Login-Formular einen entsprechenden Hinweis hinzu "
+"oder verwende ein alternatives Plugin, z.B. AntiSpam Bee."
+
+#: includes/class-hootproof-general-checks.php:320
+msgid "The Jetpack Statistics module processes and saves users's IP addresses"
+msgstr ""
+"Das Jetpack Statistik-Modul verarbeitet und speichert die IP-Adressen von "
+"Website-Besuchern."
+
+#: includes/class-hootproof-general-checks.php:321
+msgid "Include a note in your privacy declaration or use Statify instead."
+msgstr ""
+"Füge einen entsprechenden Hinweis in deiner Datenschutzerklärung hinzu."
+
+#: includes/class-hootproof-gtmetrix.php:65
+#: includes/class-hootproof-gtmetrix.php:958
+msgid "Hourly"
+msgstr "Stündlich"
+
+#: includes/class-hootproof-gtmetrix.php:125
+msgid "HootProof Performance Tests"
+msgstr "Performance Tests"
+
+#: includes/class-hootproof-gtmetrix.php:125
+msgid "Performance Tests"
+msgstr "Performance Tests"
+
+#: includes/class-hootproof-gtmetrix.php:126
+msgid "HootProof Test Schedule"
+msgstr "Tests planen"
+
+#: includes/class-hootproof-gtmetrix.php:126
+msgid "Test Schedule"
+msgstr "Tests-Plan"
+
+#: includes/class-hootproof-gtmetrix.php:136
+#, php-format
+msgid ""
+"<strong>GTmetrix integration is almost ready.</strong> You must <a href=\"%s"
+"\">enter your GTmetrix API key</a> for it to work."
+msgstr ""
+"<strong>Die GTmetrix Integration ist fast startbereit.</strong> Du musst <a "
+"href=\"%s\">deinen GTmetrix API-Schlüssel eingeben</a>, damit es "
+"funktioniert."
+
+#: includes/class-hootproof-gtmetrix.php:143
+#, php-format
+msgid ""
+"<strong>Please start your first performance test for more optimization "
+"suggestions from HootProof.</strong> Go to <a href=\"%s\">Tests</a> to test "
+"your site perforamnce."
+msgstr ""
+"<strong>Um noch mehr Vorschläge von HootProof zu erhalten, starte bitte "
+"deinen ersten Performance-Test. </strong> Gehe dazu zu <a href=\"%s\">Tests</"
+"a> um die Geschwindigkeit deiner Seite zu prüfen."
+
+#: includes/class-hootproof-gtmetrix.php:156
+msgid "GTmetrix Account Email"
+msgstr "E-Mail-Adresse deines GTmetrix-Accounts"
+
+#: includes/class-hootproof-gtmetrix.php:157
+msgid "API Key"
+msgstr "API Schlüssel"
+
+#: includes/class-hootproof-gtmetrix.php:161
+msgid "Default location"
+msgstr "Standard-Ort"
+
+#: includes/class-hootproof-gtmetrix.php:164
+#: includes/class-hootproof-gtmetrix.php:190
+msgid "Reset"
+msgstr "Zurücksetzen"
+
+#: includes/class-hootproof-gtmetrix.php:184
+msgid "Test Server Region (scheduled tests will override this setting)"
+msgstr "Region des Tests-Servers (geplante Tests ignorieren diese Einstellung)"
+
+#: includes/class-hootproof-gtmetrix.php:189
+msgid "This will flush all GTmetrix records from the WordPress database!"
+msgstr ""
+"Dadurch werden alle GTmetrix-Daten aus der WordPress-Datenbank gelöscht."
+
+#: includes/class-hootproof-gtmetrix.php:330
+msgid "Schedule updated."
+msgstr "Plan aktualisiert."
+
+#: includes/class-hootproof-gtmetrix.php:334
+msgid "Schedule a Test"
+msgstr "Plane einen Test"
+
+#: includes/class-hootproof-gtmetrix.php:353
+msgid "Event deleted"
+msgstr "Ereignis gelöscht"
+
+#: includes/class-hootproof-gtmetrix.php:360
+msgid "Event paused"
+msgstr "Ereignis pausiert"
+
+#: includes/class-hootproof-gtmetrix.php:364
+msgid "Event reactivated"
+msgstr "Ereignis reaktiviert"
+
+#: includes/class-hootproof-gtmetrix.php:368
+msgid "Scheduled Tests"
+msgstr "Geplante Tests"
+
+#: includes/class-hootproof-gtmetrix.php:373
+msgid "HootProof Performance Test Schedule"
+msgstr "Performance-Test-Plan"
+
+#: includes/class-hootproof-gtmetrix.php:399
+msgid "Report deleted"
+msgstr "Bericht gelöscht"
+
+#: includes/class-hootproof-gtmetrix.php:405
+msgid "Latest Front Page Score"
+msgstr "Letztes Ergebnis für die Startseite"
+
+#: includes/class-hootproof-gtmetrix.php:406
+msgid "Test Performance of:"
+msgstr "Performance testen für:"
+
+#: includes/class-hootproof-gtmetrix.php:407
+msgid "Reports"
+msgstr "Berichte"
+
+#: includes/class-hootproof-gtmetrix.php:413
+msgid "HootProof Performance &raquo; Tests (powered by GTMetrix)"
+msgstr "HootProof Performance-Tests (powered by GTMetrix)"
+
+#: includes/class-hootproof-gtmetrix.php:425
+msgid "Delete this report?"
+msgstr "Diesen Bericht löschen?"
+
+#: includes/class-hootproof-gtmetrix.php:426
+msgid "Are you sure you want to delete this report?"
+msgstr "Bist du sicher, dass du diesen Bericht löschen möchtest?"
+
+#: includes/class-hootproof-gtmetrix.php:436
+msgid "Authentication"
+msgstr "Authentifizierung"
+
+#: includes/class-hootproof-gtmetrix.php:438
+msgid "Options"
+msgstr "Einstellungen"
+
+#: includes/class-hootproof-gtmetrix.php:439
+msgctxt "meta box"
+msgid "Reset"
+msgstr "Zurücksetzen"
+
+#: includes/class-hootproof-gtmetrix.php:476
+msgid "GTmetrix Account Email must be a valid email address."
+msgstr "Bitte eine gültige E-Mail-Adresse eingeben "
+
+#: includes/class-hootproof-gtmetrix.php:498
+#, php-format
+msgid ""
+"Settings Saved. Please click on <a href=\"%s\">Tests</a> to test your "
+"WordPress installation."
+msgstr ""
+"Einstellungen gespeichert. Bitte klick auf <a href=\"%s\">Tests</a> um deine "
+"Seite zu testen."
+
+#: includes/class-hootproof-gtmetrix.php:603
+msgid "Test complete"
+msgstr "Test abgeschlossen"
+
+#: includes/class-hootproof-gtmetrix.php:661
+msgid "Test server region:"
+msgstr "Region des Test-Servers:"
+
+#: includes/class-hootproof-gtmetrix.php:663
+msgid "Latest successful test:"
+msgstr "Letzter erfolgreicher Test:"
+
+#: includes/class-hootproof-gtmetrix.php:668
+msgid "Page Speed score:"
+msgstr "Performance Rating:"
+
+#: includes/class-hootproof-gtmetrix.php:670
+msgid "No. of page elements:"
+msgstr "Anzahl Seitenelemente:"
+
+#: includes/class-hootproof-gtmetrix.php:674
+#: includes/class-hootproof-gtmetrix.php:864
+msgid "Page load time:"
+msgstr "Ladezeit:"
+
+#: includes/class-hootproof-gtmetrix.php:675
+#: includes/class-hootproof-gtmetrix.php:677
+#: includes/class-hootproof-gtmetrix.php:864
+msgid "seconds"
+msgstr "Sekunden"
+
+#: includes/class-hootproof-gtmetrix.php:676
+msgid "HTML load time:"
+msgstr "HTML Ladezeit:"
+
+#: includes/class-hootproof-gtmetrix.php:680
+#: includes/class-hootproof-gtmetrix.php:865
+msgid "Total page size:"
+msgstr "Gesamtgröße der Seite:"
+
+#: includes/class-hootproof-gtmetrix.php:682
+msgid "Total HTML size:"
+msgstr "HTML Größe:"
+
+#: includes/class-hootproof-gtmetrix.php:697
+#: includes/class-hootproof-gtmetrix.php:875
+#: includes/class-hootproof-gtmetrix.php:1044
+msgid "Schedule tests"
+msgstr "Tests planen"
+
+#: includes/class-hootproof-gtmetrix.php:700
+#: includes/class-hootproof-gtmetrix.php:872
+msgid "Detailed report"
+msgstr "Detaillierter Bericht"
+
+#: includes/class-hootproof-gtmetrix.php:701
+msgid "Download PDF"
+msgstr "PDF herunterladen"
+
+#: includes/class-hootproof-gtmetrix.php:710
+msgid ""
+"There are currently no successful reports in the database for this event"
+msgstr "Zurzeit liegen keine erfolgreichen Berichte für dieses Ereignis vor."
+
+#: includes/class-hootproof-gtmetrix.php:860
+msgid "Page Speed:"
+msgstr "Seitengeschwindigkeit:"
+
+#: includes/class-hootproof-gtmetrix.php:866
+msgid "Total number of requests:"
+msgstr "Gesamtzahl der Anfragen:"
+
+#: includes/class-hootproof-gtmetrix.php:876
+msgid "Re-test your Front Page"
+msgstr "Startseite erneut testen"
+
+#: includes/class-hootproof-gtmetrix.php:881
+#, php-format
+msgid ""
+"<h4>Your Front Page (%s) has not been analyzed yet</h4><p>Your front page is "
+"set in the <a href=\"%soptions-general.php\">Settings</a> of your WordPress "
+"install.</p><p><a href=\"%s\" class=\"button-primary\" id=\"gfw-test-front"
+"\">Test your Front Page now</a></p>"
+msgstr ""
+"<h4>Deine Startseite (%s) wurde noch nicht analysiert</h4><p>Deine "
+"Startseite wird in den <a href=\"%soptions-general.php\">Einstellungen</a> "
+"deiner WordPress-Installation festgelegt.</p><p><a href=\"%s\" class="
+"\"button-primary\" id=\"gfw-test-front\">Startseite jetzt testen</a></p>"
+
+#: includes/class-hootproof-gtmetrix.php:895
+msgid "Testing with GTmetrix"
+msgstr "Test mit GTmetrix läuft"
+
+#: includes/class-hootproof-gtmetrix.php:903
+#: includes/class-hootproof-gtmetrix.php:904
+msgid ""
+"You can enter a URL (eg http://yourdomain.com), or start typing the title of "
+"your page/post"
+msgstr ""
+"Du kannst eine URL eingeben (z.B. http://yourdomain.com), oder den Titel "
+"einer Seite/eines Beitrags eingeben"
+
+#: includes/class-hootproof-gtmetrix.php:908
+msgid "Label"
+msgstr "Bezeichnung"
+
+#: includes/class-hootproof-gtmetrix.php:910
+msgid "Optionally enter a label for your report"
+msgstr "Gib optional eine Bezeichnung für den Bericht ein"
+
+#: includes/class-hootproof-gtmetrix.php:913
+msgid "Locations"
+msgstr "Orte"
+
+#: includes/class-hootproof-gtmetrix.php:913
+msgid ""
+"Analyze the performance of the page from one of our several test regions.  "
+"Your Page Speed score usually stays roughly the same, but Page Load times "
+"and Waterfall should be different. Use this to see how latency affects your "
+"page load times from different parts of the world."
+msgstr ""
+"Analysiere die Performance deiner Seite aus verschiedenen Test-Regionen. Der "
+"Page Speed Score bleibt dabei in der Regal etwa gleich, aber die Ladezeit "
+"variiert. Nutze diese Funktion um zu erfahren, wie die Latenz sich auf die "
+"Ladezeit deiner Seite aus verschiedenen Teilen der Welt auswirkt."
+
+#: includes/class-hootproof-gtmetrix.php:921
+msgid "Test Server Region"
+msgstr "Region des Tests-Servers"
+
+#: includes/class-hootproof-gtmetrix.php:926
+msgid "Test URL now!"
+msgstr "URL jetzt testen!"
+
+#: includes/class-hootproof-gtmetrix.php:940
+msgid "Event not found."
+msgstr "Ereignis nicht gefunden."
+
+#: includes/class-hootproof-gtmetrix.php:949
+msgid "URL/label:"
+msgstr "URL/Bezeichnung:"
+
+#: includes/class-hootproof-gtmetrix.php:950
+msgid "Location:"
+msgstr "Ort:"
+
+#: includes/class-hootproof-gtmetrix.php:950
+msgid "(scheduled tests always use the Vancouver, Canada test server region)"
+msgstr "(geplante Tests testen immer aus Vancouver, Kanada)"
+
+#: includes/class-hootproof-gtmetrix.php:955
+#: includes/class-hootproof-gtmetrix.php:1080
+msgid "Frequency"
+msgstr "Häufigkeit"
+
+#: includes/class-hootproof-gtmetrix.php:958
+msgid "Daily"
+msgstr "Täglich"
+
+#: includes/class-hootproof-gtmetrix.php:963
+msgid "Note: every report will use up 1 of your API credits on GTmetrix.com"
+msgstr "Beachte: Jeder Bericht verbraucht 1 API Credit von Gtmetrix.com"
+
+#: includes/class-hootproof-gtmetrix.php:980
+#: includes/class-tgm-plugin-activation.php:2236
+msgid "Active"
+msgstr "Aktiv"
+
+#: includes/class-hootproof-gtmetrix.php:980
+msgid "Paused"
+msgstr "Pausiert"
+
+#: includes/class-hootproof-gtmetrix.php:980
+msgid "Paused due to recurring failures"
+msgstr "Wegen wiederholter Fehlschläge pausiert"
+
+#: includes/class-hootproof-gtmetrix.php:989
+msgid "Save"
+msgstr "Speichern"
+
+#: includes/class-hootproof-gtmetrix.php:1004
+msgid "Click a report to see more detail, or to schedule future tests."
+msgstr ""
+"Klick auf einen Bericht für mehr Informationen oder um zukünftige Tests zu "
+"planen"
+
+#: includes/class-hootproof-gtmetrix.php:1009
+#: includes/class-hootproof-gtmetrix.php:1079
+msgid "Label/URL"
+msgstr "Bezeichnung/URL"
+
+#: includes/class-hootproof-gtmetrix.php:1010
+msgid "Page Speed"
+msgstr "Page Speed"
+
+#: includes/class-hootproof-gtmetrix.php:1011
+msgid "Page Load Time"
+msgstr "Ladezeit der Seite"
+
+#: includes/class-hootproof-gtmetrix.php:1012
+msgid "Date"
+msgstr "Datum"
+
+#: includes/class-hootproof-gtmetrix.php:1039
+msgid "Click to expand/collapse"
+msgstr "Klicken zum Ausklappen/Einklappen"
+
+#: includes/class-hootproof-gtmetrix.php:1044
+msgid "Schedule test"
+msgstr "Test planen"
+
+#: includes/class-hootproof-gtmetrix.php:1044
+msgid "Delete Report"
+msgstr "Bericht löschen"
+
+#: includes/class-hootproof-gtmetrix.php:1052
+msgid "You have no reports yet. Go to the Tests Page to start your first test."
+msgstr ""
+"Du hast noch keine Testergebnisse. Gehe zur Seite Performance Tests und "
+"starte den ersten Performance-Test."
+
+#: includes/class-hootproof-gtmetrix.php:1081
+msgid "Last Report"
+msgstr "Letzter Bericht"
+
+#: includes/class-hootproof-gtmetrix.php:1082
+msgid "Next Report"
+msgstr "Nächster Bericht"
+
+#: includes/class-hootproof-gtmetrix.php:1101
+msgid "Pending"
+msgstr "In Bearbeitung"
+
+#: includes/class-hootproof-gtmetrix.php:1105
+msgid "Click to expand/collapse."
+msgstr "Klicken zum Ausklappen/Einklappen"
+
+#: includes/class-hootproof-gtmetrix.php:1115
+msgid "failed"
+msgstr "fehlgeschlagen"
+
+#: includes/class-hootproof-gtmetrix.php:1117
+msgid "Edit"
+msgstr "Bearbeiten"
+
+#: includes/class-hootproof-gtmetrix.php:1117
+msgid "Delete this event"
+msgstr "Dieses Ereignis löschen"
+
+#: includes/class-hootproof-gtmetrix.php:1117
+msgid "Delete Event"
+msgstr "Ereignis löschen"
+
+#: includes/class-hootproof-gtmetrix.php:1117
+msgid "Pause this event"
+msgstr "Dieses Ereignis pausieren"
+
+#: includes/class-hootproof-gtmetrix.php:1117
+msgid "Pause Event"
+msgstr "Ereignis pausieren"
+
+#: includes/class-hootproof-gtmetrix.php:1117
+msgid "Reactivate this event"
+msgstr "Dieses Ereignis reaktivieren"
+
+#: includes/class-hootproof-gtmetrix.php:1117
+msgid "Reactivate Event"
+msgstr "Ereignis reaktivieren"
+
+#: includes/class-hootproof-gtmetrix.php:1129
+#, php-format
+msgid ""
+"You have no Scheduled Tests. Go to <a href=\"%s\">Performance Tests</a> to "
+"create one."
+msgstr ""
+"Du hast keine geplanten Tests. Geh zu <a href=\"%s\">Performance Tests</a>, "
+"um einen zu erstellen."
+
+#: includes/class-hootproof-gtmetrix.php:1137
+msgid "Are you sure you want to delete this event?"
+msgstr "Bist du sicher, dass du dieses Ereignis löschen möchtest?"
+
+#: includes/class-hootproof-gtmetrix.php:1138
+msgid "This will delete all the reports generated so far by this event."
+msgstr "Dadurch werden alle von diesem Ereignis erstellten Bericht gelöscht."
+
+#: includes/class-hootproof-gtmetrix.php:1148
+msgid ""
+"Maximum number of GTmetrix API calls reached. Wait until the next top-up or "
+"<a href=\"https://gtmetrix.com/pro/\" target=\"_blank\" title=\"Go Pro\">go "
+"Pro</a> to receive bigger daily top-ups and other benefits."
+msgstr ""
+"DGTmetrix API-Credits sind jetzt verbraucht. Warte auf neue Credits oder <a "
+"href=\"https://gtmetrix.com/pro/\" target=\"_blank\" title=\"Go Pro"
+"\">upgrade auf GTmetrix Pro</a> für mehr tägliche Credits."
+
+#: includes/class-hootproof-gtmetrix.php:1156
+msgid "You must have an API key to use this plugin."
+msgstr "Du benötigst einen API-Schlüssel um diese Funktion zu nutzen."
+
+#: includes/class-hootproof-gtmetrix.php:1158
+msgid ""
+"To get an API key, register for a free account at gtmetrix.com and generate "
+"one in the API section."
+msgstr ""
+"Um einen API-Schlüssel zu erhalten, registriere dich kostenlos bei gtmetrix."
+"com und erstelle einen API-Schlüssel im API-Bereich."
+
+#: includes/class-hootproof-gtmetrix.php:1160
+msgid "Register for a GTmetrix account now"
+msgstr "Jetzt bei GTmetrix registrieren"
+
+#: includes/class-tgm-plugin-activation.php:333
+msgid "Install Required Plugins"
+msgstr "Erforderliche Plugins installieren"
+
+#: includes/class-tgm-plugin-activation.php:334
+msgid "Install Plugins"
+msgstr "Plugins installieren"
+
+#: includes/class-tgm-plugin-activation.php:335
+#, php-format
+msgid "Installing Plugin: %s"
+msgstr "Installiere Plugin: %s"
+
+#: includes/class-tgm-plugin-activation.php:336
+msgid "Something went wrong with the plugin API."
+msgstr "Da ist etwas schief gelaufen mit der Plugin API."
+
+#: includes/class-tgm-plugin-activation.php:338
+#, php-format
+msgid "This theme requires the following plugin: %1$s."
+msgid_plural "This theme requires the following plugins: %1$s."
+msgstr[0] "Dieses Theme erfordert das folgende Plugin: %1$s."
+msgstr[1] "Dieses Theme erfordert die folgenden Plugins: %1$s."
+
+#: includes/class-tgm-plugin-activation.php:343
+#, php-format
+msgid "This theme recommends the following plugin: %1$s."
+msgid_plural "This theme recommends the following plugins: %1$s."
+msgstr[0] "Dieses Theme empfiehlt das folgende Plugin: %1$s."
+msgstr[1] "Dieses Theme empfiehlt die folgenden Plugins: %1$s."
+
+#: includes/class-tgm-plugin-activation.php:348
+#, php-format
+msgid ""
+"Sorry, but you do not have the correct permissions to install the %1$s "
+"plugin."
+msgid_plural ""
+"Sorry, but you do not have the correct permissions to install the %1$s "
+"plugins."
+msgstr[0] ""
+"Tut uns Leid, aber du hast nicht die erforderlichen Recht um das %1$s Plugin "
+"zu installieren."
+msgstr[1] ""
+"Tut uns Leid, aber du hast nicht die erforderlichen Recht um die %1$s "
+"Plugins zu installieren."
+
+#: includes/class-tgm-plugin-activation.php:353
+#, php-format
+msgid ""
+"The following plugin needs to be updated to its latest version to ensure "
+"maximum compatibility with this theme: %1$s."
+msgid_plural ""
+"The following plugins need to be updated to their latest version to ensure "
+"maximum compatibility with this theme: %1$s."
+msgstr[0] ""
+"Das folgende Plugin muss auf die neueste Version aktualisiert werden um die "
+"bestmögliche Kompatibilität mit diesem Theme sicherzustellen: %1$s."
+msgstr[1] ""
+"Die folgenden Plugins müssen auf die neueste Version aktualisiert werden um "
+"die bestmögliche Kompatibilität mit diesem Theme sicherzustellen: %1$s."
+
+#: includes/class-tgm-plugin-activation.php:358
+#, php-format
+msgid "There is an update available for: %1$s."
+msgid_plural "There are updates available for the following plugins: %1$s."
+msgstr[0] "Es ist eine Aktualisierung verfügbar für: %1$s."
+msgstr[1] "Für die folgenden Plugins sind Aktualisierungen verfügbar: %1$s."
+
+#: includes/class-tgm-plugin-activation.php:363
+#, php-format
+msgid ""
+"Sorry, but you do not have the correct permissions to update the %1$s plugin."
+msgid_plural ""
+"Sorry, but you do not have the correct permissions to update the %1$s "
+"plugins."
+msgstr[0] ""
+"Tut uns Leid, aber du hast nicht die erforderlichen Rechte, um das %1$s "
+"Plugin zu installieren."
+msgstr[1] ""
+"Tut uns Leid, aber du hast nicht die erforderlichen Rechte, um die %1$s "
+"Plugins zu installieren."
+
+#: includes/class-tgm-plugin-activation.php:368
+#, php-format
+msgid "The following required plugin is currently inactive: %1$s."
+msgid_plural "The following required plugins are currently inactive: %1$s."
+msgstr[0] "Das folgende erforderliche Plugin ist im Moment inaktiv: %1$s."
+msgstr[1] "Die folgenden erforderlichen Plugins sind im Moment inaktiv: %1$s."
+
+#: includes/class-tgm-plugin-activation.php:373
+#, php-format
+msgid "The following recommended plugin is currently inactive: %1$s."
+msgid_plural "The following recommended plugins are currently inactive: %1$s."
+msgstr[0] "Das folgende empfohlene Plugin ist im Moment inaktiv: %1$s."
+msgstr[1] "Die folgenden empfohlenen Plugins sind im Moment inaktiv: %1$s."
+
+#: includes/class-tgm-plugin-activation.php:378
+#, php-format
+msgid ""
+"Sorry, but you do not have the correct permissions to activate the %1$s "
+"plugin."
+msgid_plural ""
+"Sorry, but you do not have the correct permissions to activate the %1$s "
+"plugins."
+msgstr[0] ""
+"Tut uns Leid, aber du hast nicht die erforderlichen Recht um das %1$s Plugin "
+"zu aktivieren."
+msgstr[1] ""
+"Tut uns Leid, aber du hast nicht die erforderlichen Recht um die %1$s "
+"Plugins zu aktivieren."
+
+#: includes/class-tgm-plugin-activation.php:383
+msgid "Begin installing plugin"
+msgid_plural "Begin installing plugins"
+msgstr[0] "Beginne mit der Installation des Plugins"
+msgstr[1] "Beginne mit der Installation der Plugins"
+
+#: includes/class-tgm-plugin-activation.php:388
+msgid "Begin updating plugin"
+msgid_plural "Begin updating plugins"
+msgstr[0] "Beginne mit der Aktualisierung des Plugins"
+msgstr[1] "Beginne mit der Aktualisierung der Plugins"
+
+#: includes/class-tgm-plugin-activation.php:393
+msgid "Begin activating plugin"
+msgid_plural "Begin activating plugins"
+msgstr[0] "Beginne mit der Aktivierung des Plugins"
+msgstr[1] "Beginne mit der Aktivierung der Plugins"
+
+#: includes/class-tgm-plugin-activation.php:397
+msgid "Return to Required Plugins Installer"
+msgstr "Zurück zur Plugin-Installation"
+
+#: includes/class-tgm-plugin-activation.php:398
+msgid "Return to the dashboard"
+msgstr "Zurück zur Übersicht"
+
+#: includes/class-tgm-plugin-activation.php:399
+#: includes/class-tgm-plugin-activation.php:3050
+msgid "Plugin activated successfully."
+msgstr "Plugin erfolgreich aktiviert"
+
+#: includes/class-tgm-plugin-activation.php:400
+#: includes/class-tgm-plugin-activation.php:2853
+msgid "The following plugin was activated successfully:"
+msgid_plural "The following plugins were activated successfully:"
+msgstr[0] "Das folgende Plugin wurde erfolgreich aktiviert:"
+msgstr[1] "Die folgenden Plugins wurden erfolgreich aktiviert:"
+
+#: includes/class-tgm-plugin-activation.php:401
+#, php-format
+msgid "No action taken. Plugin %1$s was already active."
+msgstr "Keine Aktion durchgeführt. Plugin %1$s war bereits aktiviert."
+
+#: includes/class-tgm-plugin-activation.php:402
+#, php-format
+msgid ""
+"Plugin not activated. A higher version of %s is needed for this theme. "
+"Please update the plugin."
+msgstr ""
+"Plugin nicht aktiviert. Eine neuere Version von %s wird für dieses Theme "
+"benötigt. Bitte aktualisiere das Plugin."
+
+#: includes/class-tgm-plugin-activation.php:403
+#, php-format
+msgid "All plugins installed and activated successfully. %1$s"
+msgstr "Alle Plugins erfolgreich installiert und aktiviert. %1$s"
+
+#: includes/class-tgm-plugin-activation.php:404
+msgid "Dismiss this notice"
+msgstr "Diesen Hinweis ausblenden"
+
+#: includes/class-tgm-plugin-activation.php:405
+msgid "Please contact the administrator of this site for help."
+msgstr "Bitte kontaktiere den Administrator dieser Seite für Hilfe."
+
+#: includes/class-tgm-plugin-activation.php:520
+msgid "This plugin needs to be updated to be compatible with your theme."
+msgstr ""
+"Dieses Plugin muss aktualisiert werden um mit deinem Theme kompatibel zu "
+"sein."
+
+#: includes/class-tgm-plugin-activation.php:521
+msgid "Update Required"
+msgstr "Aktualisierung erforderlich"
+
+#: includes/class-tgm-plugin-activation.php:635
+msgid "Set the parent_slug config variable instead."
+msgstr "Setze stattdessen die parent_slug Konfigurationsvariable."
+
+#: includes/class-tgm-plugin-activation.php:674
+msgid "A quick note on recommended plugins"
+msgstr "Wichtige Anmerkung zu den empfohlenen Plugins"
+
+#: includes/class-tgm-plugin-activation.php:675
+msgid ""
+"These plugin recommendations are a guideline. If you already have similiar "
+"plugins installed, simply ignore the suggestions or switch plugins. Do not "
+"install multiple plugins for the same features!"
+msgstr ""
+"Diese Plugin-Empfehlungen sind nur eine Richtlinie. Wenn du bereits ähnliche "
+"Plugins installiert hast, ignoriere die Empfehlungen oder wechsle das Plugin "
+"aus. Aktiviere nicht mehrere Plugins für dieselbe Aufgabe, da das zu "
+"Konflikten führt und Serversressourcen verschwendet."
+
+#: includes/class-tgm-plugin-activation.php:832
+#: includes/class-tgm-plugin-activation.php:3459
+msgid "Return to the Dashboard"
+msgstr "Zurück zur Übersicht"
+
+#: includes/class-tgm-plugin-activation.php:939
+msgid ""
+"The remote plugin package does not contain a folder with the desired slug "
+"and renaming did not work."
+msgstr ""
+"The remote plugin package does not contain a folder with the desired slug "
+"and renaming did not work."
+
+#: includes/class-tgm-plugin-activation.php:939
+#: includes/class-tgm-plugin-activation.php:942
+msgid ""
+"Please contact the plugin provider and ask them to package their plugin "
+"according to the WordPress guidelines."
+msgstr ""
+"Please contact the plugin provider and ask them to package their plugin "
+"according to the WordPress guidelines."
+
+#: includes/class-tgm-plugin-activation.php:942
+msgid ""
+"The remote plugin package consists of more than one file, but the files are "
+"not packaged in a folder."
+msgstr ""
+"The remote plugin package consists of more than one file, but the files are "
+"not packaged in a folder."
+
+#: includes/class-tgm-plugin-activation.php:1126
+#: includes/class-tgm-plugin-activation.php:2849
+msgctxt "plugin A *and* plugin B"
+msgid "and"
+msgstr "und"
+
+#: includes/class-tgm-plugin-activation.php:1902
+#, php-format
+msgctxt "%s = version number"
+msgid "TGMPA v%s"
+msgstr "TGMPA v%s"
+
+#: includes/class-tgm-plugin-activation.php:2188
+msgid "Required"
+msgstr "Erforderlich"
+
+#: includes/class-tgm-plugin-activation.php:2191
+msgid "Recommended"
+msgstr "Empfohlen"
+
+#: includes/class-tgm-plugin-activation.php:2207
+msgid "WordPress Repository"
+msgstr "WordPress Repository"
+
+#: includes/class-tgm-plugin-activation.php:2210
+msgid "External Source"
+msgstr "Externe Quelle"
+
+#: includes/class-tgm-plugin-activation.php:2213
+msgid "Pre-Packaged"
+msgstr "Mitgeliefert"
+
+#: includes/class-tgm-plugin-activation.php:2230
+msgid "Not Installed"
+msgstr "Nicht installiert"
+
+#: includes/class-tgm-plugin-activation.php:2234
+msgid "Installed But Not Activated"
+msgstr "Installiert aber deaktiviert"
+
+#: includes/class-tgm-plugin-activation.php:2242
+msgid "Required Update not Available"
+msgstr "Erforderliche Aktualisierung nicht verfügbar"
+
+#: includes/class-tgm-plugin-activation.php:2245
+msgid "Requires Update"
+msgstr "Erfordert Aktualisierung"
+
+#: includes/class-tgm-plugin-activation.php:2248
+msgid "Update recommended"
+msgstr "Aktualisierung empfohlen"
+
+#: includes/class-tgm-plugin-activation.php:2256
+#, php-format
+msgctxt "%1$s = install status, %2$s = update status"
+msgid "%1$s, %2$s"
+msgstr "%1$s, %2$s"
+
+#: includes/class-tgm-plugin-activation.php:2301
+#, php-format
+msgctxt "plugins"
+msgid "All <span class=\"count\">(%s)</span>"
+msgid_plural "All <span class=\"count\">(%s)</span>"
+msgstr[0] "Alle <span class=\"count\">(%s)</span>"
+msgstr[1] "Alle <span class=\"count\">(%s)</span>"
+
+#: includes/class-tgm-plugin-activation.php:2304
+#, php-format
+msgid "To Install <span class=\"count\">(%s)</span>"
+msgid_plural "To Install <span class=\"count\">(%s)</span>"
+msgstr[0] "Installieren <span class=\"count\">(%s)</span>"
+msgstr[1] "Installieren <span class=\"count\">(%s)</span>"
+
+#: includes/class-tgm-plugin-activation.php:2307
+#, php-format
+msgid "Update Available <span class=\"count\">(%s)</span>"
+msgid_plural "Update Available <span class=\"count\">(%s)</span>"
+msgstr[0] "Aktualisierung verfügbar <span class=\"count\">(%s)</span>"
+msgstr[1] "Aktualisierung verfügbar <span class=\"count\">(%s)</span>"
+
+#: includes/class-tgm-plugin-activation.php:2310
+#, php-format
+msgid "To Activate <span class=\"count\">(%s)</span>"
+msgid_plural "To Activate <span class=\"count\">(%s)</span>"
+msgstr[0] "Aktivieren <span class=\"count\">(%s)</span>"
+msgstr[1] "Aktivieren <span class=\"count\">(%s)</span>"
+
+#: includes/class-tgm-plugin-activation.php:2392
+msgctxt "as in: \"version nr unknown\""
+msgid "unknown"
+msgstr "unbekannt"
+
+#: includes/class-tgm-plugin-activation.php:2400
+msgid "Installed version:"
+msgstr "Installierte Version:"
+
+#: includes/class-tgm-plugin-activation.php:2408
+msgid "Minimum required version:"
+msgstr "Mindestens erforderliche Version:"
+
+#: includes/class-tgm-plugin-activation.php:2420
+msgid "Available version:"
+msgstr "Verfügbare Version:"
+
+#: includes/class-tgm-plugin-activation.php:2443
+#, php-format
+msgid ""
+"No plugins to install, update or activate. <a href=\"%1$s\">Return to the "
+"Dashboard</a>"
+msgstr ""
+"Keine Plugins zu installieren, aktualisieren oder aktivieren. <a href=\"%1$s"
+"\">Zurück zur Übersicht</a>"
+
+#: includes/class-tgm-plugin-activation.php:2457
+msgid "Plugin"
+msgstr "Plugin"
+
+#: includes/class-tgm-plugin-activation.php:2458
+msgid "Source"
+msgstr "Quelle"
+
+#: includes/class-tgm-plugin-activation.php:2459
+msgid "Type"
+msgstr "Art"
+
+#: includes/class-tgm-plugin-activation.php:2463
+msgid "Version"
+msgstr "Version"
+
+#: includes/class-tgm-plugin-activation.php:2464
+msgid "Status"
+msgstr "Status"
+
+#: includes/class-tgm-plugin-activation.php:2512
+#, php-format
+msgctxt "%2$s = plugin name in screen reader markup"
+msgid "Install %2$s"
+msgstr "%2$s installieren"
+
+#: includes/class-tgm-plugin-activation.php:2516
+#, php-format
+msgctxt "%2$s = plugin name in screen reader markup"
+msgid "Update %2$s"
+msgstr "%2$s aktualisieren"
+
+#: includes/class-tgm-plugin-activation.php:2521
+#, php-format
+msgctxt "%2$s = plugin name in screen reader markup"
+msgid "Activate %2$s"
+msgstr "%2$s aktivieren"
+
+#: includes/class-tgm-plugin-activation.php:2591
+msgid "Upgrade message from the plugin author:"
+msgstr "Aktualisierungs-Nachricht des Plugin-Autors:"
+
+#: includes/class-tgm-plugin-activation.php:2624
+msgid "Install"
+msgstr "Installieren"
+
+#: includes/class-tgm-plugin-activation.php:2630
+msgid "Update"
+msgstr "Aktualisieren"
+
+#: includes/class-tgm-plugin-activation.php:2633
+msgid "Activate"
+msgstr "Aktivieren"
+
+#: includes/class-tgm-plugin-activation.php:2664
+msgid "No plugins were selected to be installed. No action taken."
+msgstr "Keine Plugins zur Installation ausgewählt."
+
+#: includes/class-tgm-plugin-activation.php:2666
+msgid "No plugins were selected to be updated. No action taken."
+msgstr "Keine Plugins zur Aktualisierung ausgewählt."
+
+#: includes/class-tgm-plugin-activation.php:2702
+msgid "No plugins are available to be installed at this time."
+msgstr "Keine Plugins zur Installation verfügbar."
+
+#: includes/class-tgm-plugin-activation.php:2704
+msgid "No plugins are available to be updated at this time."
+msgstr "Keine Plugins zur Aktualisierung verfügbar."
+
+#: includes/class-tgm-plugin-activation.php:2809
+msgid "No plugins were selected to be activated. No action taken."
+msgstr "Keine Plugins zur Aktivierung ausgewählt."
+
+#: includes/class-tgm-plugin-activation.php:2835
+msgid "No plugins are available to be activated at this time."
+msgstr "Keine Plugins zur Aktivierung verfügbar."
+
+#: includes/class-tgm-plugin-activation.php:3049
+msgid "Plugin activation failed."
+msgstr "Plugin-Aktivierung fehlgeschlagen."
+
+#: includes/class-tgm-plugin-activation.php:3383
+#, php-format
+msgid "Updating Plugin %1$s (%2$d/%3$d)"
+msgstr "Aktualisiere Plugin %1$s (%2$d/%3$d)"
+
+#: includes/class-tgm-plugin-activation.php:3385
+#, php-format
+msgid "An error occurred while installing %1$s: <strong>%2$s</strong>."
+msgstr ""
+"Bei der Installation von %1$s ist ein Fehler aufgetreten: <strong>%2$s</"
+"strong>."
+
+#: includes/class-tgm-plugin-activation.php:3386
+#, php-format
+msgid "The installation of %1$s failed."
+msgstr "Die Installation von %1$s ist fehlgeschlagen."
+
+#: includes/class-tgm-plugin-activation.php:3390
+msgid ""
+"The installation and activation process is starting. This process may take a "
+"while on some hosts, so please be patient."
+msgstr ""
+"Die Installation und Aktivierung wurde gestartet. Das kann einen Moment "
+"dauern, bitte habe Geduld."
+
+#: includes/class-tgm-plugin-activation.php:3391
+#, php-format
+msgid "%1$s installed and activated successfully."
+msgstr "%1$s erfolgreich installiert und aktiviert"
+
+#: includes/class-tgm-plugin-activation.php:3391
+#: includes/class-tgm-plugin-activation.php:3397
+msgid "Show Details"
+msgstr "Details anzeigen"
+
+#: includes/class-tgm-plugin-activation.php:3391
+#: includes/class-tgm-plugin-activation.php:3397
+msgid "Hide Details"
+msgstr "Details verbergen"
+
+#: includes/class-tgm-plugin-activation.php:3392
+msgid "All installations and activations have been completed."
+msgstr "Alle Installationen und Aktivierungen abgeschlossen."
+
+#: includes/class-tgm-plugin-activation.php:3393
+#, php-format
+msgid "Installing and Activating Plugin %1$s (%2$d/%3$d)"
+msgstr "Installiere und aktiviere Plugin %1$s (%2$d/%3$d)"
+
+#: includes/class-tgm-plugin-activation.php:3396
+msgid ""
+"The installation process is starting. This process may take a while on some "
+"hosts, so please be patient."
+msgstr ""
+"Die Installation startet. Dies kann eine Weile dauern, bitte habe Geduld."
+
+#: includes/class-tgm-plugin-activation.php:3397
+#, php-format
+msgid "%1$s installed successfully."
+msgstr "%1$s erfolgreich installiert."
+
+#: includes/class-tgm-plugin-activation.php:3398
+msgid "All installations have been completed."
+msgstr "Alle Installationen erfolgreich abgeschlossen."
+
+#: includes/class-tgm-plugin-activation.php:3399
+#, php-format
+msgid "Installing Plugin %1$s (%2$d/%3$d)"
+msgstr "Plugin installieren %1$s (%2$d/%3$d)"
+
+#: includes/hootproof-result-details.php:9
+msgid "High"
+msgstr "Hoch"
+
+#: includes/hootproof-result-details.php:14
+msgid "SEO"
+msgstr "SEO"
+
+#: includes/hootproof-result-details.php:15
+msgid "Privacy"
+msgstr "Datenschutz"
+
+#: includes/hootproof-result-details.php:16
+msgid "Legal"
+msgstr "Rechtliches"
+
+#: includes/hootproof-result-details.php:17
+msgid "Performance"
+msgstr "Performance"
+
+#: includes/hootproof-result-details.php:18
+msgid "Security"
+msgstr "Sicherheit"
+
+#: includes/hootproof-result-details.php:25
+msgid "Install plugin: broken-link-checker"
+msgstr "Plugin installieren: Broken Link Checker"
+
+#: includes/hootproof-result-details.php:31
+msgid "Install plugin: subscribe-to-doi-comments"
+msgstr "Plugin installieren: Subscribe To DOI Comments"
+
+#: includes/hootproof-result-details.php:37
+msgid "Install plugin: limit-login-attempts"
+msgstr "Plugin installieren: Limit Login Attempts"
+
+#: includes/hootproof-result-details.php:43
+msgid "Activate plugin: broken-link-checker"
+msgstr "Plugin aktivieren: Broken Link Checke"
+
+#: includes/hootproof-result-details.php:49
+msgid "Activate plugin: limit-login-attempts"
+msgstr "Plugin aktivieren: Limit Login Attempts"
+
+#: includes/hootproof-result-details.php:55
+msgid "Activate plugin: subscribe-to-doi-comments"
+msgstr "Plugin aktivieren: Subscribe To DOI Comments"
+
+#: includes/hootproof-result-details.php:62
+msgid "Turn off WP_DEBUG"
+msgstr "WP_DEBUG ausstellen"
+
+#: includes/hootproof-result-details.php:68
+msgid "Set blog description to something unique"
+msgstr "Seitenuntertitel verfassen"
+
+#: includes/hootproof-result-details.php:74
+msgid "Delete sample page"
+msgstr "Beispiel-Seite löschen"
+
+#: includes/hootproof-result-details.php:80
+msgid "Delete sample post"
+msgstr "Beispiel-Beitrag löschen"
+
+#: includes/hootproof-result-details.php:86
+msgid "Delete sample comment"
+msgstr "Beispiel-Kommentar löschen"
+
+#: includes/hootproof-result-details.php:92
+msgid "Delete Hello Dolly plugin"
+msgstr "Hallo Dolly Plugin löschen"
+
+#: includes/hootproof-result-details.php:98
+msgid "Create an imprint"
+msgstr "Impressum erstellen"
+
+#: includes/hootproof-result-details.php:104
+msgid "Fill in your blog description"
+msgstr "Blog-Beschreibung eintragen"
+
+#: includes/hootproof-result-details.php:110
+msgid "Reduce number of active plugins"
+msgstr "Anzahl aktiver Plugins reduzieren"
+
+#: includes/hootproof-result-details.php:116
+msgid "Prevent users from registering with a sensitive role"
+msgstr ""
+"Verhindern, dass Benutzer sich mit einer kritischen Rolle registrieren können"
+
+#: includes/hootproof-result-details.php:122
+msgid "Make blog visible to search engines"
+msgstr "Blog für Suchmaschinen sichtbar machen"
+
+#: includes/hootproof-result-details.php:128
+msgid "Set permalink structure"
+msgstr "Permalink-Struktur setzen"
+
+#: includes/hootproof-result-details.php:134
+msgid "Create a privacy statement"
+msgstr "Datenschutzerklärung erstellen"
+
+#: includes/hootproof-result-details.php:140
+msgid "Activate anonymize IP for Google Analytics"
+msgstr "Anonymisierte IP-Adressen für Google Analytics aktivieren"
+
+#: includes/hootproof-result-details.php:146
+#, php-format
+msgid "Delete IP addresses for %s comments"
+msgstr "IP-Adressen bei %s Kommentaren löschen"
+
+#: includes/hootproof-result-details.php:147
+#, php-format
+msgid "Delete IP address for %s comment"
+msgstr "IP-Adresse bei %s Kommentar löschen"
+
+#: includes/hootproof-result-details.php:154
+msgid "Leverage browser caching"
+msgstr "Browser-Caching ermöglichen"
+
+#: includes/hootproof-result-details.php:160
+msgid "Minify JavaScript"
+msgstr "Javascript minimieren"
+
+#: includes/hootproof-result-details.php:166
+msgid "Optimize images"
+msgstr "Bilder optimieren"
+
+#: includes/hootproof-result-details.php:172
+msgid "Minimize redirects"
+msgstr "Weiterleitungen reduzieren"
+
+#: includes/hootproof-result-details.php:178
+msgid "Remove unused CSS"
+msgstr "Unnötiges CSS entfernen"
+
+#: includes/hootproof-result-details.php:184
+msgid "Minimize cookie size"
+msgstr "Cookie-Größe reduzieren"
+
+#: includes/hootproof-result-details.php:190
+msgid "Enable gzip compression"
+msgstr "Gzip Kompression aktivieren"
+
+#: includes/hootproof-result-details.php:196
+msgid "Combine external JavaScript"
+msgstr "Externes JavaScript zusammenfassen"
+
+#: includes/hootproof-result-details.php:202
+msgid "Minimize DNS lookups"
+msgstr "DNS-Lookups reduzieren"
+
+#: includes/hootproof-result-details.php:208
+msgid "Leverage proxy caching"
+msgstr "Proxy-Caching ermöglichen"
+
+#: includes/hootproof-result-details.php:214
+msgid "Serve resources from a consistent URL"
+msgstr "Ressourcen von einer konsistenten URL liefern"
+
+#: includes/hootproof-result-details.php:220
+msgid "Avoid CSS expressions"
+msgstr "CSS-Ausdrücke vermeiden"
+
+#: includes/hootproof-result-details.php:226
+msgid "Specify image dimensions"
+msgstr "Bilddimensionen angeben"
+
+#: includes/hootproof-result-details.php:232
+msgid "Put CSS in the document head"
+msgstr "CSS im Kopfbereich der Seite platzieren"
+
+#: includes/hootproof-result-details.php:238
+msgid "Use efficient CSS selectors"
+msgstr "Effiziente CSS-Selektoren verwenden"
+
+#: includes/hootproof-result-details.php:244
+msgid "Defer loading of JavaScript"
+msgstr "JavaScript verzögert laden"
+
+#: includes/hootproof-result-details.php:250
+msgid "Combine external CSS"
+msgstr "Externes CSS kombinieren"
+
+#: includes/hootproof-result-details.php:256
+msgid "Minify CSS"
+msgstr "CSS minimieren"
+
+#: includes/hootproof-result-details.php:262
+msgid "Optimize the order of styles and scripts"
+msgstr "Die Reihenfolge von Styles und Skripten optimieren"
+
+#: includes/hootproof-result-details.php:268
+msgid "Parallelize downloads across hostnames"
+msgstr "Downloads von verschiedenen Hostnamen parallelisieren"
+
+#: includes/hootproof-result-details.php:274
+msgid "Serve static content from a cookieless domain"
+msgstr "Statische Inhalte von Domains ohne Cookies liefern"
+
+#: includes/hootproof-result-details.php:280
+msgid "Avoid bad requests"
+msgstr "Falsche Anfragen vermeiden"
+
+#: includes/hootproof-result-details.php:286
+msgid "Avoid a character set in the meta tag"
+msgstr "Zeichensatz im Meta Tag vermeiden"
+
+#: includes/hootproof-result-details.php:292
+msgid "Avoid CSS @import"
+msgstr "CSS @import vermeiden"
+
+#: includes/hootproof-result-details.php:298
+msgid "Avoid landing page redirects"
+msgstr "Weiterleitungen auf der Zielseite vermeiden"
+
+#: includes/hootproof-result-details.php:304
+msgid "Enable Keep-Alive"
+msgstr "Keep-Alive aktivieren"
+
+#: includes/hootproof-result-details.php:310
+msgid "Inline small CSS"
+msgstr "Kurze CSS-Skripte direkt im Code platzieren"
+
+#: includes/hootproof-result-details.php:316
+msgid "Inline small JavaScript"
+msgstr "Kurzes JavaScript direkt im Code platzieren"
+
+#: includes/hootproof-result-details.php:322
+msgid "Minify HTML"
+msgstr "HTML minimieren"
+
+#: includes/hootproof-result-details.php:328
+msgid "Minimize request size"
+msgstr "Größe der Anfragen minimieren"
+
+#: includes/hootproof-result-details.php:334
+msgid "Remove query strings from static resources"
+msgstr ""
+"Versions-Angaben bei der Einbindung von statischen Ressourcen entfernen"
+
+#: includes/hootproof-result-details.php:340
+msgid "Serve scaled images"
+msgstr "Bilder in der passenden Größe liefern"
+
+#: includes/hootproof-result-details.php:346
+msgid "Specify a cache validator"
+msgstr "Cache-Validator angeben"
+
+#: includes/hootproof-result-details.php:352
+msgid "Specify a Vary: Accept-Encoding header"
+msgstr "\"Vary: Accept-Encoding header\" angeben"
+
+#: includes/hootproof-result-details.php:358
+msgid "Specify a character set early"
+msgstr "Zeichensatz möglichst früh angeben"
+
+#: includes/hootproof-result-details.php:364
+msgid "Combine images using CSS sprites"
+msgstr "Bilder durch die Verwendung von CSS Sprites kombinieren"
+
+#: includes/hootproof-result-details.php:370
+msgid "Prefer asynchronous resources"
+msgstr "Asynchrone Ressourcen bevorzugen"
+
+#: includes/hootproof-result-details.php:377
+msgid "Reduce the file size of your site"
+msgstr "Dateigröße der Seite reduzieren"
+
+#: includes/hootproof-result-details.php:383
+msgid "Reduce the number of elements/resources on your site"
+msgstr "Reduziere die Anzahl der Ressourcen/Elemente auf deiner Seite"
+
+#: includes/hootproof-result-details.php:390
+msgid "Improve the page speed score of your site"
+msgstr "Page Speed Score (Gesamtrating) der Seite verbessern"
+
+#: includes/hootproof-result-details.php:397
+msgid "Reduce the page load time of your site"
+msgstr "Ladezeit der Seite reduzieren"
+
+#~ msgid "HootProof Plugin Password"
+#~ msgstr "HootProof Plugin Passwort"
+
+#~ msgid "Invalid password"
+#~ msgstr "Ungültiges Passwort"
+
+#~ msgid "Weekly"
+#~ msgstr "Wöchentlich"
+
+#~ msgid "Monthly"
+#~ msgstr "Monatlich"
+
+#~ msgctxt "URL Documentation"
+#~ msgid "https://hootproof.de"
+#~ msgstr "https"
+
+#~ msgid ""
+#~ "<p><strong>Upgrade now to receive:</strong>\n"
+#~ "          <ol><li>Detailed step-by-step instructions on how to fix each "
+#~ "issue and implement the suggestions</li>\n"
+#~ "              <li>Access to a community where WordPress users support "
+#~ "each other and the plugin author helps you with implementing the "
+#~ "suggestions</li>\n"
+#~ "              <li>A discount code for the general HootProof support "
+#~ "services</li>\n"
+#~ "          </ol>\n"
+#~ "           (currently only available in German)</p>"
+#~ msgstr ""
+#~ "<p><strong>Werde jetzt kostenlos HootProof-Mitglied und erhalte:</"
+#~ "strong>\n"
+#~ "          <ol><li>Detaillierte Schritt-für-Schritt-Anleitungen zur "
+#~ "Umsetzung der Optimierungsvorschläge</li>\n"
+#~ "              <li>Zugang zu einer exklusiven Community, in der sich "
+#~ "WordPress-Nutzer gegenseitig unterstützen und die Plugin-Autorin dir "
+#~ "persönlich mit der Umsetzung der Vorschläge hilft</li>\n"
+#~ "              <li>Einen 10% Rabatt-Code auf den HootProof Support\n"
+#~ "              <li>Den HootProof-Newsletter mit exklusiven Rabatten und "
+#~ "Informationen</li>\n"
+#~ "          </ol></p>"
+
+#~ msgid "Performance Results"
+#~ msgstr "Performance-Ergebnisse"
+
+#~ msgid "Upgrade to premium for details on how to fix this issue"
+#~ msgstr ""
+#~ "Werde HootProof-Premium-Mitglied für Details zur Umsetzung dieses "
+#~ "Vorschlags & viele weitere Vorteile"
+
+#~ msgid "Notifications status"
+#~ msgstr "Benachrichtungsstatus"
+
+#~ msgid "Enabled"
+#~ msgstr "Aktiviert"
+
+#~ msgid "Disabled"
+#~ msgstr "Deaktiviert"
+
+#~ msgid "General Settings"
+#~ msgstr "Allgemeine Einstellungen"
+
+#~ msgid "Learn how to fix this"
+#~ msgstr "Lerne mehr über die Umsetzung dieses Vorschlags"
+
+#~ msgid "Notices"
+#~ msgstr "Benachrichtungen"
+
+#~ msgid ""
+#~ "<p>More detailed performance results, remove comment IPs, and more "
+#~ "security, privacy, and SEO checks.</p>\n"
+#~ "                  <p>Get detailed step-by-step instructions on how to fix "
+#~ "each issue and implement the suggestions (currently only available in "
+#~ "German)</p>"
+#~ msgstr ""
+#~ "<p>Detailliertere Performance-Ergebnisse, Entfernen von IP-Adressen bei "
+#~ "bestehenden Kommentaren und noch mehr Checks für bessere Sicherheit, "
+#~ "Datenschutz, und SEO.</p>\n"
+#~ "                  <p>Detaillierte Anleitungen, mit denen du Schritt für "
+#~ "Schritt die Vorschläge umsetzen kannst.</p>"
+
+#~ msgid ""
+#~ "HootProof can solve your WordPress problems and assist you with many "
+#~ "other website related tasks. Find out more about our affordable, "
+#~ "professional WordPress support."
+#~ msgstr ""
+#~ "HootProof löst deine WordPress-Probleme und kann dir mit vielen anderen "
+#~ "Aufgaben rund um deine Website weiterhelfen. "
+
+#~ msgid "Reduce the number of elements/resources on your size"
+#~ msgstr "Anzahl der Elemente und Ressorcen der Seite reduzieren"
+
+#~ msgid "There are updates available for your WordPress site:"
+#~ msgstr "Es sind Aktualisierungen für deine WordPress-Seite verfügbar:"
+
+#~ msgid "Please visit %s to update."
+#~ msgstr "Zur Aktualisierung gehe bitte zu %s"
+
+#~ msgid ""
+#~ "WP-Core: WordPress is out of date. Please update from version %s to %s"
+#~ msgstr "WordPress ist veraltet. Bitte aktualisiere von Version %s auf %s"
+
+#~ msgid "Plugin: %s is out of date. Please update from version %s to %s"
+#~ msgstr "Plugin: %s ist veraltet. Bitte aktualisiere von Version %s auf %s"
+
+#~ msgid "Details: %s"
+#~ msgstr "Details: %s"
+
+#~ msgid "Changelog: %s%s"
+#~ msgstr "Änderungen: %s%s"
+
+#~ msgid "Compatibility with WordPress %1$s: 100%% (according to its author)"
+#~ msgstr "Kompatibilität mit WordPress %1$s: 100%% (laut Autor)"
+
+#~ msgid ""
+#~ "Compatibility with WordPress %1$s: %2$d%% (%3$d \"works\" votes out of "
+#~ "%4$d total)"
+#~ msgstr ""
+#~ "Kompatibilität mit WordPress %1$s: %2$d%% (%3$d von %4$d sagen, es "
+#~ "funktioniert von)"
+
+#~ msgid "Compatibility with WordPress %1$s: Unknown"
+#~ msgstr "Kompatibilität mit WordPress %1$s: Unbekannt"
+
+#~ msgid "Compatibility: %s"
+#~ msgstr "Kompatibilität: %s"
+
+#~ msgid "Theme: %s is out of date. Please update from version %s to %s"
+#~ msgstr "Theme: %s ist veraltet. Bitte aktualisiere von Version %s auf %s"
+
+#~ msgid "WP Updates Notifier: Updates Available @ %s"
+#~ msgstr "Updates-Benachrichtigung: Es stehen Aktualisierungen bereit für %s"
+
+#~ msgid "WP Updates Notifier"
+#~ msgstr "Updates Benachrichtigung"
+
+#~ msgid "Successfully checked for updates."
+#~ msgstr "Erfolgreich auf Aktualisierungen geprüft."
+
+#~ msgid "Update Notifier"
+#~ msgstr "Updates-Benachrichtigungen"
+
+#~ msgid "Updates Notifier"
+#~ msgstr "Updates-Benachrichtigungen"
+
+#~ msgid "Never"
+#~ msgstr "Niemals"
+
+#~ msgid "%1s @ %2s"
+#~ msgstr "%1s @ %2s"
+
+#~ msgid "Last scanned: %s"
+#~ msgstr "Zuletzt geprüft: %s"
+
+#~ msgid "Save settings"
+#~ msgstr "Einstellungen speichern"
+
+#~ msgid "Save settings with test email"
+#~ msgstr "Einstellungen speichern & Test-E-Mail senden"
+
+#~ msgid "Cron Method"
+#~ msgstr "Cron-Methode"
+
+#~ msgid "Frequency to check"
+#~ msgstr "Häufigkeit der Prüfung"
+
+#~ msgid "Notify email to"
+#~ msgstr "Benachrichtigungs-Mail an"
+
+#~ msgid "Notify email from"
+#~ msgstr "Benachrichtungs-Mail von"
+
+#~ msgid "Notify about plugin updates?"
+#~ msgstr "Über Plugin-Aktualisierungen benachrichtigen?"
+
+#~ msgid "Notify about theme updates?"
+#~ msgstr "Über Theme-Aktualisierungen benachrichtigen?"
+
+#~ msgid "Notify automatic core updates to this address?"
+#~ msgstr "Über Automatische WordPress-Updates benachrichtigen?"
+
+#~ msgid "Hide core WP update nag from non-admin users?"
+#~ msgstr "WordPress-Aktualisierungen vor Nicht-Administratoren verbergen?"
+
+#~ msgid "Invalid cron method selected"
+#~ msgstr "Ungültiges cron-Verfahren gewählt"
+
+#~ msgid "Invalid frequency entered"
+#~ msgstr "Ungültige Häufigkeit eingegeben"
+
+#~ msgid "One or more email to addresses are invalid"
+#~ msgstr "Ungültige E-Mail-Adresse(n)"
+
+#~ msgid "No email to address entered"
+#~ msgstr "Keine E-Mail-Adresse eingegeben"
+
+#~ msgid "Invalid email from entered"
+#~ msgstr "Ungültige Absenderadresse"
+
+#~ msgid "Invalid plugin updates value entered"
+#~ msgstr "Ungültige Option bei Plugin-Aktualisierungen"
+
+#~ msgid "Invalid theme updates value entered"
+#~ msgstr "Ungültige Option bei Theme-Aktualisierungen"
+
+#~ msgid "Invalid automatic updates value entered"
+#~ msgstr "Ungültige Option bei automatischen Updates"
+
+#~ msgid "Invalid hide updates value entered"
+#~ msgstr "Ungültige Option beim Ausblenden von Aktualisierungen"
+
+#~ msgid "This is a test message from WP Updates Notifier."
+#~ msgstr "Dies ist eine Test-Nachricht "
+
+#~ msgid ""
+#~ "<strong>GTmetrix for WordPress is almost ready.</strong> You must <a href="
+#~ "\"%s\">enter your GTmetrix API key</a> for it to work."
+#~ msgstr ""
+#~ "<strong>GTmetrix for WordPress is almost ready.</strong> You must <a href="
+#~ "\"%s\">enter your GTmetrix API key</a> for it to work."
